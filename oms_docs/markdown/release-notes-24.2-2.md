@@ -1,0 +1,9 @@
+# Release Notes 24.2
+
+**Permalink:** release-notes-24.2-2
+**Content Length:** 3,065 characters
+**Scraped:** 2025-08-09T22:47:41.370715
+
+---
+
+Home&rsaquo;&rsaquo;Release Notes&rsaquo;&rsaquo;Manhattan Active® Supply Chain Planning&rsaquo;&rsaquo;2024 ››Release Notes 24.2 Manhattan Active&reg; Allocation Release Notes 24.2 Release date: April 5, 2024 &nbsp; KEY FEATURES:Order Generation&nbsp;from Inventory OptimizationMerging of Demand Metric and Allocation Metric The 24.2 release of Manhattan Active Allocation is focused on ensuring Manhattan&rsquo;s allocation solution is even simpler to use while achieving maximum returns on inventory.&nbsp;&nbsp; The newest additions included in the 24.2 release of Manhattan Active Allocation improve the overall usability of several core allocation functions as well as simplify various configuration tasks. Some of the most significant features are summarized below. &nbsp; KEY FEATURES: &nbsp; Order Generation&nbsp;from Inventory Optimization Users will review, submit, and approve allocations just as they currently do. On allocation approval, Inventory Optimization will generate orders when the scheduled job for order generation is executed. &nbsp; Enablement:&nbsp;This feature is automatically enabled as part of the release. &nbsp; Merging of Demand Metric and Allocation Metric Going forward, when the users interface metric data into the demand-metric component, the metric data will be fed into the Allocation Metric component and then used for the need computation and other features&nbsp;like&nbsp;today. &nbsp; Enablement:&nbsp;This feature is automatically enabled as part of the release. &nbsp; &nbsp;

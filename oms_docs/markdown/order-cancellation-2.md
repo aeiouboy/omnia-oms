@@ -1,0 +1,9 @@
+# Order Cancellation
+
+**Permalink:** order-cancellation-2
+**Content Length:** 2,521 characters
+**Scraped:** 2025-08-09T22:34:54.989695
+
+---
+
+Home &rsaquo;&rsaquo;Manhattan Active® Omni&rsaquo;&rsaquo;Order Management&rsaquo;&rsaquo;UI Help&rsaquo;&rsaquo;Digital Self-Service ››Order Cancellation Order Cancellation The Digital Self-Service cancel feature enables customers to cancel items without the assistance of customer service. Cancellations are supported for ship to home and ship to store items until released status. BOPIS items can be canceled post release until they are picked up. The Cancel Items page displays both items that are eligible for cancellation and the items that are ineligible for cancellation. The customer can choose to select all or some of the eligible items for cancellation, preview, and then confirm the cancellation. Refer&nbsp;Order Cancellation for more information. To cancel an item, the customer needs to perform the following steps: Create an order. Navigate to the DSS Cancel Items page from the &lsquo;Ready for Pickup&rsquo; email/text. In the Eligible for Cancellation section, select the Select all items check box to cancel all the eligible items. Alternatively, select Cancel this item check box for each item in the Eligible for Cancellation section. Select the reason for cancellation and click Next.&nbsp;The Review Cancellation screen displays canceled items and reasons for cancellation, Updated Order Summary with old order total and canceled items total. Click Edit Cancellation to go back and modify the selections, if required. Click Confirm to confirm the cancellation. Cancellation Confirmed message is displayed and the details are sent to the customer email ID.

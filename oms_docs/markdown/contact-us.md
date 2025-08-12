@@ -1,0 +1,9 @@
+# Contact Us
+
+**Permalink:** contact-us
+**Content Length:** 5,984 characters
+**Scraped:** 2025-08-09T22:20:18.864832
+
+---
+
+Home &rsaquo;&rsaquo;Administrator Tools ››Contact Us Contact&nbsp;Manhattan Associates Corporate Headquarters Manhattan Associates, Inc. 2300 Windy Ridge Parkway, 10th Floor Atlanta, Georgia 30339 USA Phone:&nbsp;+1 (770) 955-7070 Fax: +1 (770) 955-0302 http://www.manh.com Global Customer Support Customer Support is available to assist you 24 hours a day, 7 days a week, 365 days a year, regardless of geography. For fastest service, please&nbsp;report your issues to the appropriate Global Support Center using the information below. E-Mail Support (Severity 1 and 2 issues must be called into the 24/7 Call Center.) North and South America and Asia callcenter@manh.com Australia aucustomersupport2@manh.com Europe, Middle East and Africa emeacustomersupport@manh.com China and SE Asia asiacustomersupport@manh.com &nbsp; Telephone Support North America (toll free) 877 756 7435 North and South America and Asia 404 965 4025 Australia (local call) 1300 787 050 Australia (outside Australia) +61 2 9454 5500 New Zealand 0800 802 590 Europe (UK office), Middle East and Africa +44 (0) 1344 318400 Europe (Netherlands office) +31 30 214 3400 France +33 0800 881 643 China (toll free within China) 800 988 0885 China (outside China) +86 21 33080258 &nbsp; When Contacting Customer Support Be prepared to provide the following information: Your name, company name, and telephone number with extension Case number (if applicable) Product name, release number, and platform Description of the problem and steps to reproduce the issue Error messages Severity of the issue

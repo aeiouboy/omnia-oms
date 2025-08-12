@@ -1,0 +1,9 @@
+# REST APIs and User Exits
+
+**Permalink:** order-release-rest-apis-and-user-exits
+**Content Length:** 5,939 characters
+**Scraped:** 2025-08-09T22:34:07.547335
+
+---
+
+Home &rsaquo;&rsaquo;Manhattan Active® Omni&rsaquo;&rsaquo;Order Management&rsaquo;&rsaquo;Process & Configuration Guides&rsaquo;&rsaquo;Order Processing&rsaquo;&rsaquo;Order Fulfillment&rsaquo;&rsaquo;Order Release ››REST APIs and User Exits REST APIs and User Exits Previous&nbsp;I&nbsp;Next &nbsp; REST APIs and User ExitsREST APIsKey APIs availableHow to accessGrants requiredUser ExitsHow to accessGrants requiredRelated Article(s) REST APIs Key APIs available The following APIs can be used to publish the release outbound on demand: Service Component Group Endpoint Comments Export release by releaseId Order Release Services /api/order/order/release/{releaseId}/export Release by release Id Export release by orderId Order Release Services /api/order/order/{orderId}/release/export Release by Order Id &nbsp; Service Component Group Endpoint Comments Find Matching Release Config Order Order Services /order/api/order/releaseConfig/orderId/{orderId} order/api/order/releaseConfig/orderId/TF27-RO-20201223135514 Mass Release Order(s) Order Order Services /order/api/order/order/massAction Mass Release How to access Menu -&gt; Developer Resource -&gt; Order -&gt; Order API Documentation &nbsp; Grants required order::swaggerdocs User Exits For details on the user exit APIs request and response. How to access Omnifacade app -&gt; Developer Resource -&gt; Order -&gt; Order User Exit Documentation &nbsp; Grants required omnifacade::order::userexit::read &nbsp; Related Article(s) Release Grouping and CreationPublish ReleaseOverviewHow Release WorksTroubleshootingMass Release &nbsp; &nbsp;

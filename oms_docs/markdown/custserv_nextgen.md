@@ -1,0 +1,9 @@
+# Customer Services NextGen
+
+**Permalink:** custserv_nextgen
+**Content Length:** 2,942 characters
+**Scraped:** 2025-08-09T22:34:44.090612
+
+---
+
+Home &rsaquo;&rsaquo;Manhattan Active® Omni&rsaquo;&rsaquo;Order Management&rsaquo;&rsaquo;UI Help&rsaquo;&rsaquo;Customer Service ››Customer Services NextGen Customer Service NextGen Customer Service NextGen is used in all call center activities such as searching items, capturing orders, and returning/exchanging items.&nbsp; Note: It is recommended to use the Angular JS user interface with the permission: customerengagementfacade:: Using the Customer Service NextGen Home page, you can search by customer, item or the order number.&nbsp;&nbsp; Search by Customer&nbsp; In the Find a Customer&nbsp;icon text box, enter the name of the customer, phone number, or e-mail of the customer and search for a customer.&nbsp; Click View More Search Options to use the first name, last name, email, and phone number of the customer to perform the search.&nbsp; Based on the search criteria, the customer list is displayed.&nbsp; Select a customer from the customer list to display the Customer Transaction page. Search by Item In the Find an Item&nbsp;icon text box, enter the item name, item ID, style, or color of an item and search for the item.&nbsp; The Item search page is displayed. Search by Order Number In the&nbsp; Find an Order&nbsp;text box, enter the order number&nbsp;and search for an order. The Call Center page is displayed to view the order details.&nbsp; The navigation bar on the Customer Service NextGen Home&nbsp;page contains the following icons to navigate through the various interfaces for managing the customer orders: Item Search Orders &nbsp;

@@ -1,0 +1,9 @@
+# Orders
+
+**Permalink:** orders-4
+**Content Length:** 3,710 characters
+**Scraped:** 2025-08-09T22:38:28.355999
+
+---
+
+Home &rsaquo;&rsaquo;Manhattan Active® Supply Chain Planning&rsaquo;&rsaquo;UI Help&rsaquo;&rsaquo;Allocation ››Orders Orders &nbsp; OrdersFiltersAction Buttons Orders UI displays&nbsp;all Open and Released orders in the organization.&nbsp; Orders are split and displayed by source-destination pair and a set of pre-defined aggregation criteria.&nbsp; Orders can be filtered based on the Source location Id, Destination Id, Order Id, and Order Status. &nbsp; Filters The following&nbsp;list of filters is available on the screen: &nbsp;Destination Location&nbsp; Order Id Source Location Status Open&nbsp; Released Action Buttons The following action buttons are available on the page: &nbsp; Field &nbsp; &nbsp;Description &nbsp; Select All Rows Selects all the rows of records on the screen. Related Links The user can select one or multiple orders, click&nbsp;Related Links&nbsp;and select View&nbsp;Order Lines&nbsp;to navigate to the Order Lines screen. The filter will be applied to the selected orders, and only&nbsp;order lines that are related to the selected orders will be displayed. Export Exports the list of order attributes, and the file will be downloaded onto your system. View&nbsp;Export&nbsp;for more information. Export Data Loader Allows a user to export the data on all the pages that is returned from the filter on the UI into a spreadsheet format. The Export Data Loader is asynchronous. &nbsp;The system does not provide an option for the selection of fields. By default, it exports all fields from both order and order lines, and the user can view them in separate tabs.&nbsp;&nbsp;Upon completion of the export, if configured, an alert notification can be displayed by clicking on the bell icon on the top right corner of the UI.&nbsp; Release Releases selected open orders and publishes the order json to the messaging queue.

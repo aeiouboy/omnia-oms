@@ -1,0 +1,9 @@
+# Apply Coupons 
+
+**Permalink:** applycoupons
+**Content Length:** 3,005 characters
+**Scraped:** 2025-08-09T22:35:19.363732
+
+---
+
+Home &rsaquo;&rsaquo;Manhattan Active® Omni&rsaquo;&rsaquo;Customer Engagement&rsaquo;&rsaquo;UI Help&rsaquo;&rsaquo;Order&rsaquo;&rsaquo;Order Attributes ››Apply Coupons Applying Coupons To apply coupons at order level or item level, perform the following steps: On the Item Search page, search and select an item.&nbsp; After you add the items to the shopping cart and complete the checkout process, the Call Center page is displayed. You can use the coupon codes in the Coupons pop-up window to avail discounts on the order. These discounts can be applied at both the order level and the item level. For order level, click&nbsp;Coupons in the Order Details section. For item level, click Coupons against the item for which you want to apply coupons. The Coupons pop-up window is displayed. Enter a valid coupon code in the text box. You can enter more than one coupon codes as comma-separated values. Click Apply. The re-calculated price for the order is displayed at the bottom of the page. You can view the number of coupons applied and the total coupon values in the Total Coupons and Total coupon value&nbsp;fields. Note: An error message is displayed if you enter invalid coupon codes.&nbsp;The coupon code is case sensitive, so ensure that&nbsp;you enter the correct&nbsp;input of uppercase and lowercase letters.&nbsp;For example,&nbsp;if your coupon code is&nbsp;WINTER5OFFC and you enter the coupon code as winter5offc, an invalid coupon code message is displayed.&nbsp; &nbsp;

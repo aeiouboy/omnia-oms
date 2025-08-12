@@ -1,0 +1,9 @@
+# Editing a Case
+
+**Permalink:** edit_case
+**Content Length:** 3,608 characters
+**Scraped:** 2025-08-09T22:35:10.576015
+
+---
+
+Home &rsaquo;&rsaquo;Manhattan Active® Omni&rsaquo;&rsaquo;Customer Engagement&rsaquo;&rsaquo;UI Help&rsaquo;&rsaquo;Case ››Editing a Case Editing a Case The CSR gets an inquiry from a customer. The customer issue is already a case in the software, but updates to&nbsp;the case details are required. Additional details are filled based on the current interaction between the CSR and&nbsp;the customer. There may be a need to change the priority, make a note on the shipment received, or update any&nbsp;other such information.&nbsp; To modify a case, perform the following steps: In the left quick access pane, click Cases (). On the Case List&nbsp;page, select the active cases option&nbsp;from the&nbsp;State&nbsp;drop-down and ensure that you enter at least one more filter criteria to search for the case you want to edit. If you do not select at least one more filter criteria, &quot;Select and Apply a Filter to View Cases&quot; message will be&nbsp;displayed. &nbsp;After entering the filter criteria, you can perform the following actions: Click Apply to apply the filter criteria to search for a case. Click Clear to clear the filter. Click Save As to save the filter To extend the range of filter criteria, click More and enable more search fields. Based on the search criteria, the list of cases is displayed. Select the check box against the case that you want to edit, and then click Edit.&nbsp;The Edit Case page is displayed. Modify the details in the Customer, People, Details, Resolution,&nbsp;and Reference sections, if required. Click Submit to submit the changes.

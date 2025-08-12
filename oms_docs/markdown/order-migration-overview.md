@@ -1,0 +1,9 @@
+# Overview
+
+**Permalink:** order-migration-overview
+**Content Length:** 4,619 characters
+**Scraped:** 2025-08-09T22:34:16.468018
+
+---
+
+Home &rsaquo;&rsaquo;Manhattan Active® Omni&rsaquo;&rsaquo;Order Management&rsaquo;&rsaquo;Process & Configuration Guides&rsaquo;&rsaquo;Order Processing&rsaquo;&rsaquo;Order Migration ››Overview Order Migration Overview &nbsp;I&nbsp;Next &nbsp; How to Migrate OrdersRelated Articles This guide is for upgrading and migrating from the proactive/legacy system to Manhattan Active&reg; Omni.The mappings, child pages, and especially the sample JSONs&nbsp;can be useful when mapping completed order imports into Active Omni. Note: In case of migration from&nbsp;Manhattan Enterprise Order Management (EOM),&nbsp;the&nbsp;mappings(v2013_ActiveOmni_Order_Mapping.xlsx) are applicable only to the 2013 version; if migrating from a different EOM version, then the mapping is subject to minor changes.&nbsp; Note: In the Order Header section, set &quot;IsOrderCountable&quot;: false to exclude the imported order from being counted in the contractual services order subscription How to Migrate Orders Step 1: Review the following rules for migration, which highlight key differences between EOM 2013 and Active Omni (AO). Quantity-Level Status Returns &amp; Exchanges Tax Adjustments Payment Archived Orders Step 2: Review the mapping from 2013 to Active Omni. Open the mapping document found here: v2013_ActiveOmni_Order_Mapping.xlsx. This sheet contains one tab for each of the mappings below: Customer Order Return Order Sales Order Customer Communications Step 3: Use the sample JSONs during testing and development. Use the sample JSONs provided here Note: Ensure that the Order Total, Payment Total, and Invoice Total are the same in order save payload Related Articles Order Migration Sample JSONsArchiving Migrated OrdersMigrating Quantity Level Status TroubleshootingPaymentReturns and Exchanges

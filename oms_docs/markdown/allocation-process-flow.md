@@ -1,0 +1,9 @@
+# Allocation Process Flow
+
+**Permalink:** allocation-process-flow
+**Content Length:** 3,923 characters
+**Scraped:** 2025-08-09T22:37:59.263609
+
+---
+
+Home &rsaquo;&rsaquo;Manhattan Active® Supply Chain Planning&rsaquo;&rsaquo;Process &amp; Configuration Guides&rsaquo;&rsaquo;Allocation ››Allocation Process Flow Allocation Process Flow &nbsp; &nbsp; The allocation process flow can be divided into three&nbsp;broad stages: Allocation Pre-requisites Allocation review and approval Post-approval &nbsp; Allocation pre-requisites This stage is for the prerequisites required for the system to run allocation. It can be further divided into the following steps: &nbsp; Create Master data In this step, all the master data required for the allocation process is configured or interfaced. This includes item&nbsp;and size items, stores and DCs, business calendars, etc. &nbsp; Interface Transactional data In this step, all&nbsp;transactional data that can be used for allocation inventory is interfaced. This includes inventory, plan metrics, and historical metrics. &nbsp; Configure Allocation methods The formula&nbsp;to compute allocation needs is&nbsp;configured in this step. &nbsp; Configure Allocation Strategies In this step, the business rules for allocating the inventory are configured. These business rules will govern the system-driven inventory allocation. &nbsp; Allocation Review and Approval The output of the system generated and allocated is reviewed and approved by the allocator&rsquo;s supervisors after these results are found to be in line with the business guidelines. &nbsp; Users can either approve the allocations or reject them. &nbsp; Post Approval: Once the allocations are approved, they are approved for&nbsp;further action. This includes releasing the allocations and generating distribution orders for the DCs. &nbsp; &nbsp; &nbsp;

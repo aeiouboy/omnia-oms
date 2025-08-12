@@ -1,0 +1,8 @@
+{
+  "success": true,
+  "permalink": "ui-resources-dss",
+  "title": "UI Resources",
+  "content": "\r\n\r\n\r\n<div class=\"hiq-page-wrap\">\r\n<div class=\"hiq-t-wrap\">\r\n\t\t\r\n  \t  <div class=\"hiq-t \">\r\n\t\t\t\t<ul class=\"breadcrumbs\"><li><a class=\"breadcrumb-links\" hqid=\"1788908\"  href=\"/home\">Home</a></li> <li><span>&rsaquo;&rsaquo;</span><a hqid=\"3500940\" href=\"/omni\" class=\"breadcrumb-links\">Manhattan Active® Omni</a></li><li><span>&rsaquo;&rsaquo;</span><a hqid=\"2158393\" href=\"/order-management\" class=\"breadcrumb-links\">Order Management</a></li><li><span>&rsaquo;&rsaquo;</span><a hqid=\"2158394\" href=\"/process-configuration-guides\" class=\"breadcrumb-links\">Process & Configuration Guides</a></li><li><span>&rsaquo;&rsaquo;</span><a hqid=\"2158714\" href=\"/digital-self-service-3\" class=\"breadcrumb-links\">Digital Self-Service</a></li><li> <span>››</span>UI Resources</li></ul>  \t\r\n\t\t<h2>UI Resources -&nbsp;Digital Self-Service &nbsp;</h2>\r\n\r\n<p></p>\r\n\r\n<h3>Resources for the Digital Self-Service Configuration UI</h3>\r\n\r\n<p>Assign grants&nbsp;for the DSS Configuration UI&nbsp;menu to the required user groups.</p>\r\n\r\n<p><strong>Resource Name:</strong>&nbsp;digitalselfservice::configuration::admin</p>\r\n\r\n\t  </div>\r\n </div>\r\n <div id=\"ui-page-fb-wrap\"></div>\r\n <div class=\"hiq-footer-wrap\">\r\n    \r\n                \r\n  </div>\r\n\r\n\r\n</div>\r\n\r\n\r\n\r\n\r\n\r\n",
+  "content_length": 1245,
+  "scraped_at": "2025-08-09T22:33:52.438053"
+}

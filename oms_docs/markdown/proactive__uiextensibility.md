@@ -1,0 +1,10 @@
+# User Interface Extensibility
+
+**Original Permalink:** proactive/uiextensibility
+**Safe Filename:** proactive__uiextensibility
+**Content Length:** 2,705 characters
+**Scraped:** 2025-08-09T22:22:52.303233
+
+---
+
+Home &rsaquo;&rsaquo;Administrator Tools&rsaquo;&rsaquo;Manhattan ProActive® ››User Interface Extensibility User Interface Extensibility User Interface (UI) Extensibility enables you to make modifications to&nbsp;Manhattan Active UIs by adding buttons, pop-ups, and additional input fields. To create a UI Extension, select &#39;UI Extension&#39; from the left-hand navigation menu. You will then see the different products that are available for you to extend. After selecting the&nbsp;product&nbsp;you would like to make a UI Extension for, a new tab will open in the developer mode, Manhattan ProActive&reg; Designer, for that product.&nbsp;Once in Manhattan ProActive&reg; Designer mode, you may then configure your UI Extension. Existing Customer UI Extensions If you would like to modify an already existing extension, there is a manual step you will need to take. An extension pack with&nbsp;an extension pack ID of &quot;LEGACY&quot; should be created&nbsp;through the Manhattan ProActive&reg; UI. Creating an extension pack with this ID will pull in your previously created UI Extensions and make them visible to you in Manhattan ProActive&reg; and in Manhattan ProActive&reg;. If you have previous extensions and do not wish to modify them, no action is necessary. Utilizing Entity Extensions To use a custom entity extension created in Manhattan ProActive&reg; within a UI Extension, note that you must create and deploy a separate pack containing the custom entity extension prior to creating the UI Extension. This ensures&nbsp;the custom entity extension you&nbsp;created is also available for use in the UI Extension builder(s), Manhattan ProActive&reg; Designer. &nbsp;

@@ -1,0 +1,451 @@
+{
+    "BU": "CFR",
+    "CapturedDate": "2025-08-07T11:13:32Z",
+    "CurrencyCode": "THB",
+    "CustomerId": null,
+    "CustomerEmail": "undefined",
+    "DoNotReleaseBefore": "",
+    "CustomerFirstName": "Grab Customer",
+    "CustomerLastName": "-",
+    "CustomerPhone": "0101010122",
+    "CustomerTypeId": "",
+    "DocType": {
+        "DocTypeId": "CustomerOrder"
+    },
+    "IsOnHold": false,
+    "OrderLocale": "th",
+    "OrderHold": [{
+            "HoldTypeId": "AwaitingPayment",
+            "StatusId": "2000",
+            "ResolveReasonId": "AcceptPayment"
+        }
+    ],
+    "CancelAllowed": true,
+    "OrderActions": {
+        "IsAlreadyPriced": true,
+        "IsAlreadyCharged": true,
+        "IsAlreadyTaxed": true
+    },
+    "OrderExtension1": {
+        "Extended": {
+            "FullTaxInvoice": false,
+            "AllowSubstitution": true,
+            "CancelAllowed": true,
+            "TaxId": "",
+            "CompanyName": "",
+            "BranchNo": "",
+            "ConfirmPaymentId": "Cash On Delivery",
+            "IsPSConfirmed": true,
+            "ExternalMPSellerId": null
+        }
+    },
+    "OrderChargeDetail": [{
+            "ChargeDisplayName": "Free",
+            "ChargeReferenceId": "",
+            "ChargeDetailId": "112782713-C7LFNXTUR3VZJA",
+            "ChargeTotal": 20,
+            "ChargeType": {
+                "ChargeTypeId": "Shipping"
+            },
+            "IsTaxIncluded": true,
+            "IsPostReturn": true,
+            "IsInformational": true
+        }, {
+            "ChargeDisplayName": "Discount Promotion",
+            "ChargeDetailId": "112782713-C7LFNXTUR3VZJA-Discount",
+            "ChargeTotal": "-11.00",
+            "ChargeType": {
+                "ChargeTypeId": "Discount"
+            },
+            "IsTaxIncluded": true,
+            "IsPostReturn": true,
+            "IsInformational": true
+        }, {
+            "ChargeDisplayName": "Shipping Fee Discount",
+            "ChargeDetailId": "112782713-C7LFNXTUR3VZJA-ShippingFeeDiscount",
+            "ChargeTotal": "-15.00",
+            "ChargeType": {
+                "ChargeTypeId": "Shipping"
+            },
+            "IsTaxIncluded": true,
+            "IsPostReturn": true,
+            "IsInformational": true
+        }
+    ],
+    "OrderTaxDetail": [{
+            "IsInformational": true,
+            "TaxAmount": 0.32,
+            "TaxCode": "SHIPPING",
+            "TaxRate": 0.07,
+            "TaxTypeId": "VAT",
+            "TaxableAmount": 4.67
+        }
+    ],
+    "OrderType": {
+        "OrderTypeId": "MKP-HD-STD"
+    },
+    "OrderNote": [{
+            "NoteType": {
+                "NoteTypeId": "0004"
+            },
+            "NoteCategory": {
+                "NoteCategoryId": "CustomerCommunication"
+            },
+            "NoteText": "GM-641"
+        }
+    ],
+    "SellingChannel": {
+        "SellingChannelId": "Grab"
+    },
+    "OrderLine": [{
+            "DeliveryMethod": {
+                "DeliveryMethodId": "ShipToAddress"
+            },
+            "IsGift": false,
+            "IsTaxIncluded": true,
+            "ItemId": "8851932440691",
+            "OrderLineId": "000-0-0",
+            "OrderLineNote": [{
+                    "NoteId": "R02_112782713-C7LFNXTUR3VZJA",
+                    "NoteType": {
+                        "NoteTypeId": "0006"
+                    },
+                    "NoteCategory": {
+                        "NoteCategoryId": "CustomerCommunication"
+                    },
+                    "NoteText": ""
+                }
+            ],
+            "OrderLineChargeDetail": [],
+            "OrderLineTaxDetail": [{
+                    "IsInformational": true,
+                    "TaxAmount": 13.01,
+                    "TaxCode": null,
+                    "TaxRate": 0.07,
+                    "TaxTypeId": "VAT",
+                    "TaxableAmount": 185.98
+                }
+            ],
+            "OrderLinePromisingInfo": {
+                "ShipFromLocationId": "CFR029",
+                "IsForceAllocate": true
+            },
+            "PromisedDeliveryDate": "",
+            "UOM": "SBTL",
+            "Quantity": 1,
+            "UnitPrice": 199,
+            "OriginalUnitPrice": 199,
+            "ShippingMethodId": "Standard Delivery",
+            "ShipToAddress": {
+                "Address": {
+                    "Address1": "Grab Address1",
+                    "Address2": "Grab Address2",
+                    "Address3": "",
+                    "City": "-",
+                    "County": "-",
+                    "Email": "undefined",
+                    "Country": "TH",
+                    "FirstName": "Grab Customer",
+                    "LastName": "-",
+                    "Phone": "0101010122",
+                    "PostalCode": "99999",
+                    "State": "-",
+                    "BranchNo": "",
+                    "TaxId": "",
+                    "CompanyName": "Grab Customer"
+                },
+                "Extended": {
+                    "AddressRef": "|||4016|TH"
+                },
+                "IsAddressVerified": true
+            },
+            "OrderLineExtension1": {
+                "Extended": {
+                    "IsBundle": false,
+                    "IsSubstitution": false,
+                    "IsGiftWrapping": false,
+                    "IsGWP": false,
+                    "PackItemDescriptionTH": "-",
+                    "PackUnitPrice": null,
+                    "PackOrderedQty": 0,
+                    "NumberOfPack": 0,
+                    "ProductNameTH": "เคลียร์แชมพูอิทช์ฟรี 370มล Clear Itch Free SH 370ml",
+                    "ProductNameEN": "เคลียร์แชมพูอิทช์ฟรี 370มล Clear Itch Free SH 370ml",
+                    "BundleRefId": null,
+                    "SlotBookingId": "112782713-C7LFNXTUR3VZJA",
+                    "SlotBookingFrom": "2025-08-07T18:43:32.000Z",
+                    "SlotBookingTo": "2025-08-07T19:43:32.000Z",
+                    "IsWeightItem": false,
+                    "PromotionType": "",
+                    "PromotionId": ""
+                }
+            },
+            "ReleaseGroupId": "3-CZDEEY5ACK22SA"
+        }, {
+            "DeliveryMethod": {
+                "DeliveryMethodId": "ShipToAddress"
+            },
+            "IsGift": false,
+            "IsTaxIncluded": true,
+            "ItemId": "8853474030491",
+            "OrderLineId": "001-1-1",
+            "OrderLineNote": [{
+                    "NoteId": "R03_112782713-C7LFNXTUR3VZJA",
+                    "NoteType": {
+                        "NoteTypeId": "0006"
+                    },
+                    "NoteCategory": {
+                        "NoteCategoryId": "CustomerCommunication"
+                    },
+                    "NoteText": ""
+                }
+            ],
+            "OrderLineChargeDetail": [],
+            "OrderLineTaxDetail": [{
+                    "IsInformational": true,
+                    "TaxAmount": 4.25,
+                    "TaxCode": null,
+                    "TaxRate": 0.07,
+                    "TaxTypeId": "VAT",
+                    "TaxableAmount": 60.74
+                }
+            ],
+            "OrderLinePromisingInfo": {
+                "ShipFromLocationId": "CFR029",
+                "IsForceAllocate": true
+            },
+            "PromisedDeliveryDate": "",
+            "UOM": "SPAC",
+            "Quantity": 1,
+            "UnitPrice": 65,
+            "OriginalUnitPrice": 65,
+            "ShippingMethodId": "Standard Delivery",
+            "ShipToAddress": {
+                "Address": {
+                    "Address1": "Grab Address1",
+                    "Address2": "Grab Address2",
+                    "Address3": "",
+                    "City": "-",
+                    "County": "-",
+                    "Email": "undefined",
+                    "Country": "TH",
+                    "FirstName": "Grab Customer",
+                    "LastName": "-",
+                    "Phone": "0101010122",
+                    "PostalCode": "99999",
+                    "State": "-",
+                    "BranchNo": "",
+                    "TaxId": "",
+                    "CompanyName": "Grab Customer"
+                },
+                "Extended": {
+                    "AddressRef": "|||4016|TH"
+                },
+                "IsAddressVerified": true
+            },
+            "OrderLineExtension1": {
+                "Extended": {
+                    "IsBundle": false,
+                    "IsSubstitution": false,
+                    "IsGiftWrapping": false,
+                    "IsGWP": false,
+                    "PackItemDescriptionTH": "-",
+                    "PackUnitPrice": null,
+                    "PackOrderedQty": 0,
+                    "NumberOfPack": 0,
+                    "ProductNameTH": "JTB หมูบดอนามัย 200กรัม JTB Hygienic Ground Pork 200g.",
+                    "ProductNameEN": "JTB หมูบดอนามัย 200กรัม JTB Hygienic Ground Pork 200g.",
+                    "BundleRefId": null,
+                    "SlotBookingId": "112782713-C7LFNXTUR3VZJA",
+                    "SlotBookingFrom": "2025-08-07T18:43:32.000Z",
+                    "SlotBookingTo": "2025-08-07T19:43:32.000Z",
+                    "IsWeightItem": false,
+                    "PromotionType": "",
+                    "PromotionId": ""
+                }
+            },
+            "ReleaseGroupId": "3-CZDEEY5ACK22SA"
+        }, {
+            "DeliveryMethod": {
+                "DeliveryMethodId": "ShipToAddress"
+            },
+            "IsGift": false,
+            "IsTaxIncluded": true,
+            "ItemId": "4987176060815",
+            "OrderLineId": "002-2-2",
+            "OrderLineNote": [{
+                    "NoteId": "R04_112782713-C7LFNXTUR3VZJA",
+                    "NoteType": {
+                        "NoteTypeId": "0006"
+                    },
+                    "NoteCategory": {
+                        "NoteCategoryId": "CustomerCommunication"
+                    },
+                    "NoteText": ""
+                }
+            ],
+            "OrderLineChargeDetail": [{
+                    "IsTaxIncluded": true,
+                    "RequestedAmount": -11,
+                    "ChargeTotal": -11,
+                    "ChargeDisplayName": "Product Discount Promotion",
+                    "ChargeDetailId": "112782713-C7LFNXTUR3VZJA-002-2",
+                    "IsInformational": true,
+                    "ChargePercent": null,
+                    "DiscountOn": {
+                        "DiscountOnId": "ItemPrice"
+                    },
+                    "ChargeType": {
+                        "ChargeTypeId": "Discount"
+                    },
+                    "Extended": {
+                        "PromotionId": null,
+                        "PromotionType": null,
+                        "JdaDiscCode": "",
+                        "ChargeDesc": "3-CZDEEY5ACK22SA-C7LEJLBKGB6TE6-88969110",
+                        "CRCTaxAmount": null,
+                        "TaxRate": 0.07,
+                        "PlatformAbsorb": true
+                    }
+                }
+            ],
+            "OrderLineTaxDetail": [{
+                    "IsInformational": true,
+                    "TaxAmount": 8.43,
+                    "TaxCode": null,
+                    "TaxRate": 0.07,
+                    "TaxTypeId": "VAT",
+                    "TaxableAmount": 120.56
+                }
+            ],
+            "OrderLinePromisingInfo": {
+                "ShipFromLocationId": "CFR029",
+                "IsForceAllocate": true
+            },
+            "PromisedDeliveryDate": "",
+            "UOM": "SPAC",
+            "Quantity": 1,
+            "UnitPrice": 129,
+            "OriginalUnitPrice": 140,
+            "ShippingMethodId": "Standard Delivery",
+            "ShipToAddress": {
+                "Address": {
+                    "Address1": "Grab Address1",
+                    "Address2": "Grab Address2",
+                    "Address3": "",
+                    "City": "-",
+                    "County": "-",
+                    "Email": "undefined",
+                    "Country": "TH",
+                    "FirstName": "Grab Customer",
+                    "LastName": "-",
+                    "Phone": "0101010122",
+                    "PostalCode": "99999",
+                    "State": "-",
+                    "BranchNo": "",
+                    "TaxId": "",
+                    "CompanyName": "Grab Customer"
+                },
+                "Extended": {
+                    "AddressRef": "|||4016|TH"
+                },
+                "IsAddressVerified": true
+            },
+            "OrderLineExtension1": {
+                "Extended": {
+                    "IsBundle": false,
+                    "IsSubstitution": false,
+                    "IsGiftWrapping": false,
+                    "IsGWP": false,
+                    "PackItemDescriptionTH": "-",
+                    "PackUnitPrice": null,
+                    "PackOrderedQty": 0,
+                    "NumberOfPack": 0,
+                    "ProductNameTH": "ดาวน์นี่ตากผ้าในร่ม470มลX2แถม1 DownySofIndoorDry 470mlX2Free1",
+                    "ProductNameEN": "ดาวน์นี่ตากผ้าในร่ม470มลX2แถม1 DownySofIndoorDry 470mlX2Free1",
+                    "BundleRefId": null,
+                    "SlotBookingId": "112782713-C7LFNXTUR3VZJA",
+                    "SlotBookingFrom": "2025-08-07T18:43:32.000Z",
+                    "SlotBookingTo": "2025-08-07T19:43:32.000Z",
+                    "IsWeightItem": false,
+                    "PromotionType": "undefined",
+                    "PromotionId": "ลด ฿11 สำหรับ ดาวน์นี่ตากผ้าในร่ม490มลX2แถม1 DownySofIndoorDry 490mlX2Free1"
+                }
+            },
+            "ReleaseGroupId": "3-CZDEEY5ACK22SA"
+        }
+    ],
+    "Payment": [{
+            "PaymentMethod": [{
+                    "PaymentMethodId": "10408a05-88f7-43b8-a47b-52e5fb92e8d9",
+                    "Amount": 393,
+                    "CurrencyCode": "THB",
+                    "GatewayId": "Simulator",
+                    "PaymentType": {
+                        "PaymentTypeId": "Cash On Delivery"
+                    },
+                    "CurrentSettledAmount": 393,
+                    "IsCopied": false,
+                    "IsModifiable": false,
+                    "IsSuspended": false,
+                    "IsVoided": false,
+                    "BillingAddress": {
+                        "Address": {
+                            "Address1": "Grab Address1",
+                            "Address2": "Grab Address2",
+                            "Address3": "",
+                            "City": "-",
+                            "County": "-",
+                            "Email": "undefined",
+                            "Country": "TH",
+                            "FirstName": "Grab Customer",
+                            "LastName": "-",
+                            "Phone": "0101010122",
+                            "PostalCode": "99999",
+                            "State": "-",
+                            "BranchNo": "",
+                            "TaxId": "",
+                            "CompanyName": "Grab Customer"
+                        },
+                        "Extended": {
+                            "AddressRef": "|||4016|TH"
+                        }
+                    },
+                    "PaymentTransaction": [{
+                            "PaymentTransactionId": "10408a05-88f7-43b8-a47b-52e5fb92e8d9",
+                            "IsActivation": false,
+                            "IsActive": true,
+                            "IsCopied": false,
+                            "IsValidForRefund": true,
+                            "OrderId": "112782713-C7LFNXTUR3VZJA",
+                            "ReconciliationId": "112782713-C7LFNXTUR3VZJA",
+                            "RequestId": "112782713-C7LFNXTUR3VZJA",
+                            "RequestToken": "112782713-C7LFNXTUR3VZJA",
+                            "ProcessedAmount": 393,
+                            "TransactionDate": "2025-08-07T11:13:32Z",
+                            "PaymentResponseStatus": {
+                                "PaymentResponseStatusId": "Success"
+                            },
+                            "Status": {
+                                "PaymentTransactionStatusId": "Closed"
+                            },
+                            "TransmissionStatus": {
+                                "PaymentTransmissionStatusId": "Closed"
+                            },
+                            "RequestedAmount": 393,
+                            "TransactionType": {
+                                "PaymentTransactionTypeId": "Settlement"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "ProcessingMode": {
+                "ProcessingModeId": "ExternalProcessing"
+            }
+        }
+    ],
+    "OrderId": "112782713-C7LFNXTUR3VZJA",
+    "AlternateOrderId": "112782713-C7LFNXTUR3VZJA",
+    "OrgId": "CFR"
+}

@@ -1,0 +1,9 @@
+# Troubleshooting
+
+**Permalink:** atc-troubleshooting
+**Content Length:** 5,982 characters
+**Scraped:** 2025-08-09T22:33:34.140061
+
+---
+
+Home &rsaquo;&rsaquo;Manhattan Active® Omni&rsaquo;&rsaquo;Order Management&rsaquo;&rsaquo;Process & Configuration Guides&rsaquo;&rsaquo;Enterprise Inventory&rsaquo;&rsaquo;Available to Commerce ››Troubleshooting Troubleshooting TroubleshootingWhy doesn't availability get displayed for distance based rule?Ship from Store is not creating the second release ID for merge flowOut of Stock status is displayed with available quantities while trying to get availability from ATC viewWhy is the Out of Stock Availability Alert not getting publishedRelated Article(s) Why doesn't availability get displayed for distance based rule? The distance based rule works based on the Lat/Long comparison. Ensure the following configurations are set up for&nbsp;distance based rule to work&nbsp;correctly. Steps &nbsp;End Points Zip codes available in Geo component /geo/api/geo/zipdetails/{country}/{zipcode} Inventory Location - Latitude and Longitude /inventory/api/inventory/location &nbsp; Ship from Store is not creating the second release ID for merge flow In a merge flow where an order is shipped from store A to store B, create a rule for in transit supply type on ATC to create the second release ID(for the pickup leg). Out of Stock status is displayed with available quantities while trying to get availability from ATC view Ensure that the order line ID is the same during the creation of web reservation and order. Why is the Out of Stock Availability Alert not getting published The availability alert is triggered and sent by the child organization. If orders or reservations are not created at the child level, the alert will not be published. Related Article(s) REST APIs and User ExitsAvailability StatisticsView Activation and RebuildsPublish AvailabilityOverviewHow is Availability Computed?

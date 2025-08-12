@@ -1,0 +1,9 @@
+# Rest APIs & User Exits
+
+**Permalink:** caapacity_rest_apis-user-exits
+**Content Length:** 5,255 characters
+**Scraped:** 2025-08-09T22:33:39.085597
+
+---
+
+Home &rsaquo;&rsaquo;Manhattan Active® Omni&rsaquo;&rsaquo;Order Management&rsaquo;&rsaquo;Process & Configuration Guides&rsaquo;&rsaquo;Enterprise Inventory&rsaquo;&rsaquo;Capacity Management ››Rest APIs & User Exits Rest APIs & User Exits Previous &nbsp; REST APIsUser ExitsParcel Component&nbsp;User ExitsRelated Articles REST APIs Key APIs used for Capacity Business Process&nbsp;&nbsp; &nbsp; &nbsp; Component&nbsp;&nbsp; &nbsp; &nbsp;Service Group&nbsp; End Point Create Location - Capacity Definition and overrides&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; Inventory&nbsp;&nbsp; &nbsp; Location Services&nbsp; /api/inventory/location Get Location - Capacity Definition and overrides&nbsp; Inventory Location Services /api/inventory/location Get Location Utilization&nbsp;&nbsp; &nbsp; Inventory&nbsp;&nbsp; &nbsp; Capacity Utilization Services&nbsp;&nbsp; &nbsp; /api/inventory/capacity/locationCapacityUtilization Reduce Utilized Capacity&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Inventory&nbsp;&nbsp; &nbsp; Location Capacity Inclusion Services&nbsp;&nbsp; /api/inventory/locationCapacityInclusion &nbsp; How to access Menu -&gt; Developer Resource -&gt; Inventory -&gt; Inventory API Documentation &nbsp; Grants required inventory::swaggerdocs &nbsp; User Exits For details on the user exit APIs request and response. How to access Menu -&gt; Developer Resource -&gt; Inventory -&gt; Inventory User Exit Documentation &nbsp; Grants required omnifacade::inventory::userexit::read &nbsp; Parcel Component&nbsp;User Exits &nbsp; Related Articles Rolling Capacity to the Next Day/ShiftManaging High Utilization LocationsReleasing CapacityCapacity as a Constraint & OptimizationHow Capacity WorksOverview

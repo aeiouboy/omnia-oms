@@ -1,0 +1,9 @@
+# Deactivating and Activating Customers
+
+**Permalink:** deactivating-customers
+**Content Length:** 3,565 characters
+**Scraped:** 2025-08-09T22:35:16.261783
+
+---
+
+Home &rsaquo;&rsaquo;Manhattan Active® Omni&rsaquo;&rsaquo;Customer Engagement&rsaquo;&rsaquo;UI Help&rsaquo;&rsaquo;Customer Management ››Deactivating and Activating Customers Deactivating Customers The Deactivate Customer option provided in all the customer information panels such as customer dashboard, order status, and social listening screen allows the CSR to deactivate any registered customers. &nbsp; To deactivate a customer, perform the following steps: &nbsp; In the customer information panel, click the three dot&nbsp;icon next to the customer name, and then select the Deactivate Customer option. In the Deactivate Customer pop-up window, select the reason for deactivating the customer in the Reason drop-down list. In the Notes text box, enter comments, if any. Click Submit. &nbsp; Activating Customers The Activate Customer option enables CSR to activate the deactivated customers. &nbsp; To activate a deactivated customer, perform the following steps: &nbsp; In the customer information panel, click the&nbsp;three dot&nbsp;icon next to the customer name, and then select the Activate Customer option for the deactivated customer. In the Activate Customer pop-up window, select the reason for activating the customer in the Reason drop-down list. In the Notes text box, enter comments, if any. Click Submit. Note:&nbsp;A deactivated customer will have the &nbsp;icon displayed in the customer information panel. On activating the deactivated customer, the icon on the customer information panel changes to its original state.

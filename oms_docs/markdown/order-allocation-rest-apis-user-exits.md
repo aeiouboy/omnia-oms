@@ -1,0 +1,9 @@
+# REST APIs and User Exits
+
+**Permalink:** order-allocation-rest-apis-user-exits
+**Content Length:** 5,446 characters
+**Scraped:** 2025-08-09T22:34:05.062713
+
+---
+
+Home &rsaquo;&rsaquo;Manhattan Active® Omni&rsaquo;&rsaquo;Order Management&rsaquo;&rsaquo;Process & Configuration Guides&rsaquo;&rsaquo;Order Processing&rsaquo;&rsaquo;Order Fulfillment&rsaquo;&rsaquo;Order Allocation ››REST APIs and User Exits REST APIs and User Exits Previous &nbsp; REST APIsKey APIs availableHow to accessGrants requiredUser ExitsHow to accessGrants requiredRelated Article(s) REST APIs Key APIs available The following APIs can be used to publish the release outbound on demand: Business Process Component Group Endpoint Allocate Order Order Allocate Services //orderapi/order/order/{orderID}/allocate Allocate List of Order(s) Order Allocate Services /order/api/order/order/allocate Allocate List of Order line (s) Order Allocate Services /order/api/order/order/orderLine/allocate Mass Allocate Order(s) Order Order Services /order/api/order/order/massAction Fetch Fulfillment Optimization config for an Order ID Order Release Services /order/api/order/allocationConfig/orderId/{orderID} &nbsp; How to access Menu -&gt; Developer Resource -&gt; Order -&gt; Order API Documentation &nbsp; Grants required order::swaggerdocs User Exits For details on the user exit APIs request and response. How to access Omnifacade app -&gt; Developer Resource -&gt; Order -&gt; Order User Exit Documentation &nbsp; Grants required omnifacade::order::userexit::read &nbsp; Related Article(s) Immediate Mass AllocatePrioritizationContinuousOverview &nbsp; &nbsp;

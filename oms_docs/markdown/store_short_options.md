@@ -1,0 +1,9 @@
+# Store Short Options
+
+**Permalink:** store_short_options
+**Content Length:** 3,241 characters
+**Scraped:** 2025-08-09T22:33:41.442353
+
+---
+
+Home &rsaquo;&rsaquo;Manhattan Active® Omni&rsaquo;&rsaquo;Order Management&rsaquo;&rsaquo;Process & Configuration Guides&rsaquo;&rsaquo;Digital Self-Service ››Store Short Options Store Short Options&nbsp; OverviewDetails Overview The Digital Self-Service (DSS)&nbsp;module offers a landing page, which consolidates possible actions a customer can take&nbsp;when their Buy-Online-Pickup-In-Store (BOPIS) order cannot be fulfilled due to lack of inventory&nbsp;at the original location.&nbsp; Details Currently, this consolidated page presents three&nbsp;options below as clickable tiles: Pick it&nbsp;up at another&nbsp;store Ship It to me Instead Cancel items&nbsp; Each of these are independent DSS features, with a landing page of their own. Upon the click of a tile, the user is taken to the corresponding feature's landing page and the flow for that feature starts. For the feature 'Pick it up at another store', the landing page has a BACK button to navigate back to the Store Short Options page. At present, the features 'Ship It to me Instead' and 'Cancel items' do not have&nbsp;a BACK button,&nbsp;and the user will need to use the browser back button.&nbsp; Note:The order lines for the items unavailable at a given store location should be in “backordered” status for the page to load.&nbsp; If unavailable items order lines are confirmed to be in “backordered” status, then the permitted mod types&nbsp;check is done.&nbsp;Based on permitted mod types, if the BOPIS order does not qualify for any of the options, then that tile is not clickable and an error message is displayed right below the tile in red italicized style.&nbsp; &nbsp;

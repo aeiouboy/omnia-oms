@@ -1,0 +1,9 @@
+# SCI Release 22.4
+
+**Permalink:** sci-release-22.4
+**Content Length:** 3,908 characters
+**Scraped:** 2025-08-09T22:47:24.725412
+
+---
+
+Home&rsaquo;&rsaquo;Release Notes&rsaquo;&rsaquo;Manhattan Active® Omni&rsaquo;&rsaquo;2022 ››SCI Release 22.4 Supply Chain Intelligence Release Notes 22.4 Release&nbsp;Date: 10/7/2022 Framework UpdatesOther Updates Framework Updates &nbsp; The following table summarizes the changes made to the existing SCI for Omni packages: Package Name New/Existing Description Order Management Existing Added: Order Milestone entity to the Order table Order Charge Detail table and joined Order Charge Type and Order Reason entities Order Reason Type entity to the Order Reason table Order Line Charge Detail table and joined Order Line Charge Type and Order Line Reason entities Order Line Reason Type entity to the Order Line Reason table Order Customer Marketing Group and Order Self Service Attributes to the Order table Parent Order Self Service Attributes to the Parent Order table Order Fulfillment Existing Added Order Customer Marketing Group entity to the Order table &nbsp; Other Updates The other enhancements included in Operational SCI for this release are: Enhancement Description Addition of New Columns in Base Packages Operational SCI for Manhattan Active&reg; Omni includes newly added columns for multiple entities across components. These additions are made across base framework packages to ensure they keep up with product changes or column additions, which enhance the reports/ dashboard capabilities. POS Location Security To improve the performance of SCI for Point of Sale, modifications are made to the location security for Order Line entities of the POS package.&nbsp; JSONStore Datatype support Manhattan Active&reg; SCI now supports the JSONStore Datatype functionality to search, extract, and compare data for better reporting.

@@ -1,0 +1,9 @@
+# Create Case
+
+**Permalink:** createcase
+**Content Length:** 3,459 characters
+**Scraped:** 2025-08-09T22:35:08.971100
+
+---
+
+Home &rsaquo;&rsaquo;Manhattan Active® Omni&rsaquo;&rsaquo;Customer Engagement&rsaquo;&rsaquo;UI Help&rsaquo;&rsaquo;Case ››Create Case Creating a New Case The CSR gets an enquiry from a customer (via&nbsp;phone, email or any of the configured communication channels). The CSR is not able to resolve the issue or there is certain level of follow up required to resolve the customer request. In such a scenario, a new case is created.&nbsp;The Create Case feature enables you to create cases for all&nbsp;interactions with the customer for future reference.&nbsp; To add a new case, perform the following steps: In the left quick access pane, click&nbsp;Cases&nbsp;(). In the Cases&nbsp;page, click Create Case. The Create Case page is displayed. Select the Status and Priority from the appropriate drop-down lists. Choose a due date for the case to be resolved. In the Customer section, you can search for the customer using the Customer Search field. The first name, last name, phone, and email will be populated based on the search result. In the People section, select the team and enter the name of the assignee to whom the case is assigned. In the References section, enter the reference order number. In the Details section, select the Case Category. Based on the case category selected, the Case Sub-Category drop-down list will be populated. Select a Case Sub-Category. Select the Origin of initiating the case and location. Enter the Summary, Description, Resolution and Resolution Description for the case. Click Save to save the newly created case.

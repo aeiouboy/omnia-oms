@@ -1,0 +1,9 @@
+# Manhattan Active® Supply Chain Intelligence Release Notes for Omni 25.1
+
+**Permalink:** sci_omni_25.1_release_notes
+**Content Length:** 5,761 characters
+**Scraped:** 2025-08-09T22:47:13.902056
+
+---
+
+Home&rsaquo;&rsaquo;Release Notes&rsaquo;&rsaquo;Manhattan Active® Omni&rsaquo;&rsaquo;2025&rsaquo;&rsaquo;Release v25.1 ››Manhattan Active® Supply Chain Intelligence Release Notes for Omni 25.1 Manhattan Active&reg; Supply Chain Intelligence Release Notes for Omni 25.1 Manhattan Active&reg; Supply Chain Intelligence Release Notes for Omni 25.1Report UpdatesManhattan Active SCI StatusFramework Updates Report Updates Manhattan Active SCI Status The following updates have been made&nbsp;to the&nbsp;Manhattan Active SCI Status report. The threshold limit for the&nbsp;Max Runtime Minutes Per Hour&nbsp;metric is removed, and values are now displayed without color coding. The&nbsp;Max Runtime Minutes Per Hour&nbsp;metric is displayed at&nbsp;the top, while the&nbsp;Reports in 24 Hrs&nbsp;metric is moved to the bottom section of the report. Framework Updates The following table summarizes updates made to the existing Omni packages: Framework &nbsp;New/Existing&nbsp; &nbsp;Description All Packages Existing Added: Adjustment Reason T table to Adjust Reason Name entity. Adjustment Types T table to Adjust Type From Disposition entity. Inventory Management Existing Added: Inventory Item Location and Inventory Supply Alloc qty tables to the Inventory Supply entity. Pick Pack Assigned Services table to Outbound LPN entity. Order Management Existing Added Backorder Line table to the Order Line entity. All Packages Existing Added&nbsp;JSON_Store column to&nbsp;the following&nbsp;entities. Inventory Reservation Match&nbsp; Release Release Line Invoice Invoice Line Invoice Line Charge Invoice Charge Payment Header Payment Transaction &nbsp;

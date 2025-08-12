@@ -1,0 +1,9 @@
+# Manhattan Active® Supply Chain Planning Framework
+
+**Permalink:** inventory-allocation-framework
+**Content Length:** 8,968 characters
+**Scraped:** 2025-08-09T22:37:13.411919
+
+---
+
+Home &rsaquo;&rsaquo;Manhattan Active® Omni&rsaquo;&rsaquo;Supply Chain Intelligence&rsaquo;&rsaquo;Supply Chain Intelligence - Supply Chain Planning&rsaquo;&rsaquo;Frameworks ››Manhattan Active® Supply Chain Planning Framework Manhattan Active&reg; Supply Chain Planning Framework &nbsp; &nbsp; SCI provides a Manhattan Active&reg; Supply Chain Planning Framework, which covers&nbsp;the key functional areas, such as Inventory Movement KPI, Inventory Movement, Inventory, Allocation Unit and Released Orders.&nbsp;This document provides a high-level overview of the&nbsp;&nbsp;Manhattan Active&reg; Supply Chain Planning Framework.&nbsp; &nbsp; Allocation UnitInventory Movement KPIInventory MovementInventoryReleased OrdersReplenishment Allocation Unit This package enables users to view the allocation activities such as which item inventory is allocated from which location. &nbsp; &nbsp; Inventory Movement KPI This package helps in getting all the information about the activities related to Inventory Movement KPI such as item location, item and its manufacturing attributes. &nbsp; &nbsp; Inventory Movement The inventory movement enables users to manage the unit allocation, inventory movement, KPI and its factors. Also, manage the item, item location, item for inventory management and more. &nbsp; &nbsp; Inventory This package enables users to view the inventory supply related to item, item location and its attributes. &nbsp; &nbsp; Released Orders This package enables users to monitor the released orders such as number of order lines and the item locations associated. &nbsp; &nbsp; Replenishment &nbsp; &nbsp; &nbsp; &nbsp;

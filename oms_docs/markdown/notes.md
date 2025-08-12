@@ -1,0 +1,9 @@
+# Notes
+
+**Permalink:** notes
+**Content Length:** 3,883 characters
+**Scraped:** 2025-08-09T22:38:09.390656
+
+---
+
+Home &rsaquo;&rsaquo;Manhattan Active® Supply Chain Planning&rsaquo;&rsaquo;Process &amp; Configuration Guides&rsaquo;&rsaquo;Order Build ››Notes Notes Previous&nbsp; OverivewConfigurationsHow to create a Note? Overivew &nbsp; The &#39;Notes on the Suggested Order&#39;&nbsp;feature improves communication and collaboration by enabling users to add comments and relevant details directly to orders. This functionality enhances transparency and facilitates the exchange of information related to orders, making it more organized and insightful. Once an order is approved, any added notes are carried over. Notes can be used for various purposes, including: Shipping instructions Transportation-specific details Special handling requirements Communicating customer information Inventory adjustments Providing estimated time of arrivals (ETAs) &nbsp; The Suggested Order feature includes a widget on the details summary page for adding, editing, and deleting notes. Notes are displayed with user information and timestamps. Key attributes include a description, a checkbox to print on the order, and a priority setting (numeric only). If &quot;Print on PO&quot; is selected, notes will appear on the order page and will be printed from the suggested order. Notes are also visible on the details page. &nbsp; Configurations &nbsp; How to create a Note? &nbsp; Note{{url}}/ai-inventoryoptimization/api/ai-inventoryoptimization/inventoryMovementSummaryNotes/save { &nbsp; &nbsp; &quot;InventoryMovementSummaryId&quot;:&quot;3e1865936643e62d9a7c4f9e58e0af&quot;, &nbsp; &nbsp; &quot;NoteText&quot;:&quot;Packaging&quot;, &nbsp; &nbsp; &quot;Priority&quot;:1, &nbsp; &nbsp; &quot;PrintOnOrder&quot;:true }

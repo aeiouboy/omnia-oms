@@ -1,0 +1,23 @@
+{
+  "organization_url": "https://dev.azure.com/YOUR_ORG",
+  "project_name": "YOUR_PROJECT",
+  "personal_access_token": "YOUR_PAT",
+  "story_mapping": {
+    "epic_work_item_type": "Epic",
+    "story_work_item_type": "User Story",
+    "default_iteration": "\\YOUR_PROJECT\\Iteration 1",
+    "default_area": "\\YOUR_PROJECT",
+    "tags": ["MVP", "MAO", "QC-SMF"]
+  },
+  "priority_mapping": {
+    "P0": 1,
+    "P1": 2,
+    "P2": 3
+  },
+  "custom_fields": {
+    "business_value": "Microsoft.VSTS.Common.BusinessValue",
+    "effort": "Microsoft.VSTS.Scheduling.Effort",
+    "story_points": "Microsoft.VSTS.Scheduling.StoryPoints",
+    "acceptance_criteria": "Microsoft.VSTS.Common.AcceptanceCriteria"
+  }
+}

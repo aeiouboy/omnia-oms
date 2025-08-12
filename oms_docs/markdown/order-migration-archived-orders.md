@@ -1,0 +1,9 @@
+# Archived Orders
+
+**Permalink:** order-migration-archived-orders
+**Content Length:** 3,497 characters
+**Scraped:** 2025-08-09T22:34:18.111591
+
+---
+
+Home &rsaquo;&rsaquo;Manhattan Active® Omni&rsaquo;&rsaquo;Order Management&rsaquo;&rsaquo;Process & Configuration Guides&rsaquo;&rsaquo;Order Processing&rsaquo;&rsaquo;Order Migration ››Archived Orders Archiving&nbsp;Orders After Migration Previous&nbsp;I&nbsp;Next &nbsp; Considerations for Archiving Migrated&nbsp;OrdersRelated Articles This page contains general recommendations for migrating archived orders from EOM 2013 to Active Omni(AO). Considerations for Archiving Migrated&nbsp;Orders The Order Configuration setting for &#39;Days to Archive&#39; specifies the days to archive after an order is in a completed state. For typical orders which are created and completed in Active Omni, this setting is anywhere from 30 - 90 days after an order is completed. However, for completed orders which are imported, the setting should likely be reduced (example,&nbsp;to 1 day) so that these orders are archived somewhat immediately. Otherwise, the active database will be full of historical orders which should be archived, and performance could be impacted. Consider updating this configuration during migration of completed orders, and then changing it to your normal business setting after migration is complete. Migration from pre-active archive database should behave similar&nbsp;to the active database, as the schemas are the same. However, a thorough testing effort should be completed for both active and archived orders. Related Articles TroubleshootingReturns and ExchangesPaymentOverviewOrder Migration Sample JSONsMigrating Quantity Level Status &nbsp;

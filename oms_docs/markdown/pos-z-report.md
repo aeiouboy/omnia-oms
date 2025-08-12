@@ -1,0 +1,9 @@
+# POS Z Report
+
+**Permalink:** pos-z-report
+**Content Length:** 5,517 characters
+**Scraped:** 2025-08-09T22:35:46.112768
+
+---
+
+Home &rsaquo;&rsaquo;Manhattan Active® Omni&rsaquo;&rsaquo;Store&rsaquo;&rsaquo;Process & Configuration Guides&rsaquo;&rsaquo;Point of Sale&rsaquo;&rsaquo;POS Classic Guides&rsaquo;&rsaquo;POS Metrics and App Reports - Wiretap Strategy&rsaquo;&rsaquo;POS App Reports ››POS Z Report POS Z Report POS Z ReportBase Store Z ReportZ Report ExampleZ Report Field Definitions A retail &quot;Z Report&quot; is a summary of the transactions which occured during the course of a business day.&nbsp; &nbsp;It is called &quot;Z&quot; meaning &quot;final&quot; as it is typically generated after the store is closed so no further changes can occur on that business day. &nbsp; Base Store Z Report See the POS Metrics and Reporting guide. With backoffice&gt;storeReportConfig settings as described, the Z report is automatically triggered by the Backoffice Store Close operation.&nbsp;&nbsp;Prior to Store Close the report is not available for a given business day.&nbsp;&nbsp; Following Store Close the report for that day is constructed from fields as defined in the commonutil&gt;reportConfig entity, along with the configured .pdf template.&nbsp; &nbsp;An example of the base report is shown below. Once the report is created, a user with appropriate grant&nbsp;can navigate to REPORTS menu in the Backoffice and request the report for that day.&nbsp;from those available.&nbsp;Currently the Z report is only available on behalf of the entire store, when the entire store is closed. &nbsp; Z Report Example &nbsp; 20230718.1908.ZReport.pdf &nbsp; Z Report Field Definitions See Report Metric Definitions and Configurability Guide.

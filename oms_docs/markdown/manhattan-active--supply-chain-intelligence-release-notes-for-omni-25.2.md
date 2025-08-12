@@ -1,0 +1,9 @@
+# Manhattan Active® Supply Chain Intelligence Release Notes for Omni 25.2
+
+**Permalink:** manhattan-active--supply-chain-intelligence-release-notes-for-omni-25.2
+**Content Length:** 4,535 characters
+**Scraped:** 2025-08-09T22:47:12.932374
+
+---
+
+Home&rsaquo;&rsaquo;Release Notes&rsaquo;&rsaquo;Manhattan Active® Omni&rsaquo;&rsaquo;Manhattan Active® Omni Release Notes 25.2 ››Manhattan Active® Supply Chain Intelligence Release Notes for Omni 25.2 Manhattan Active&reg; Supply Chain Intelligence Release Notes for Omni 25.2 Manhattan Active&reg; Supply Chain Intelligence Release Notes for Omni 25.2Framework Updates Framework Updates The following table summarizes updates to the Operational SCI packages for Manhattan Active Omni packages: Framework &nbsp;New/Existing&nbsp; &nbsp;Description Inventory Management Existing Added Inventory View Network Protection entity. Order Management Existing Added standalone entities. Payment Type Payment Transaction Type Payment Card Type Added Order Release Extension1 table to Release entity. Order Cancel Line Charge Detail table to Order Line entity. POS Existing Added standalone entities Payment Type Payment Transaction Type Payment Card Type Added Sam Reconcile Log table to Sam Request Logs entity. All Packages Existing Added&nbsp;the JSON_Store column to&nbsp;the following&nbsp;entities. Order Line Charge Order Charge Order Ship To Address Order Fulfillment Detail for Order Release Payment Method Order Line Extension2 Order Release Extension1 Order Line Cancel History Order Cancel Line Charge Detail Order Extension 3 Invoice Line Invoice Line Charge Detail Invoice Charge Detail Added Order Charge Detail Is Prorated At Same Level column to the Order Charge entity. &nbsp; &nbsp;

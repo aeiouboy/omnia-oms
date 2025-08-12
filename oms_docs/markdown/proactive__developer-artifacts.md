@@ -1,0 +1,10 @@
+# Developer Artifacts
+
+**Original Permalink:** proactive/developer-artifacts
+**Safe Filename:** proactive__developer-artifacts
+**Content Length:** 4,822 characters
+**Scraped:** 2025-08-09T22:22:48.185366
+
+---
+
+Home &rsaquo;&rsaquo;Administrator Tools&rsaquo;&rsaquo;Manhattan ProActive® ››Developer Artifacts Developer Artifacts OverviewLabels & ReportsSpecify APIsExtend AppsView UI ExtensionsData Dictionary Overview The Developer Artifacts section allows you to download various artifacts that will help extend the Manhattan Active solution. Features available in this section vary based on each Manhattan Active solution. Below are the features available in&nbsp;Manhattan Active® Omni.&nbsp; &nbsp; Labels & Reports In the Developer Artifacts section,&nbsp;you can choose to customize the&nbsp;labels and report templates. Templates can be downloaded, customized and re-deployed to meet the business needs of the customer.&nbsp; Specify APIs The Specify APIs &nbsp;section will allow you to select a façade and view all&nbsp;APIs that have been overridden by extensions&nbsp;for different profiles.&nbsp; Extend Apps The "Extend Apps" feature allows you to customize any released base application once UI extension development is complete. This only applies to iFrame-based UI extensions. View UI Extensions The View UI Extensions&nbsp;feature allows the user to view UI Extensions without going to specific Extension Packs. These extensions will be available in a read-only mode for viewing. Data Dictionary Within the Data Dictionary,&nbsp;you can browse entities and download their associated files. An Excel workbook with details of the entity attributes and corresponding database table-column mapping is downloaded. See the Data Dictionary topic in the Developer Hub for more information.&nbsp; Data Dictionary Within the Data Dictionary,&nbsp;you can browse entities and download their associated files. An Excel workbook with details of the entity attributes and corresponding database table-column mapping is downloaded. See the&nbsp;Data Dictionary&nbsp;topic in the Developer Hub for more information.&nbsp; &nbsp;

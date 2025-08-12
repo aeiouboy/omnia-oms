@@ -1,0 +1,9 @@
+# Available to Commerce
+
+**Permalink:** atc
+**Content Length:** 3,938 characters
+**Scraped:** 2025-08-09T22:34:35.439620
+
+---
+
+Home &rsaquo;&rsaquo;Manhattan Active® Omni&rsaquo;&rsaquo;Order Management&rsaquo;&rsaquo;UI Help&rsaquo;&rsaquo;Enterprise Inventory ››Available to Commerce Available to Commerce The Available to Commerce(ATC) provides the inventory availability picture. Using the availability rules, ATC&nbsp;enables the retailers to define multiple commerce views to meet the customer expectation and business needs.&nbsp;The Available to Commerce&nbsp;UI is not extensible. No custom buttons, links, or panels can be added, and icons cannot be customized.&nbsp; The Available to Commerce module enables you to set up availability data specific to: Manage Availability Configure Rule Set Configure Commerce Views Configure Regional Rules Configure Availability Status Availability Statistics Report Grants ATC have certain features that require special grants to perform the desired function.The following table describes the various grants associated with ATC. Grants Details inventoryfacade::viewdefinition::readwrite To View/Create/Update ATC and perform below view actions inventoryfacade::viewdefinition::activatedeactivate To Activate/Deactivate a configuration for the commerce view inventoryfacade::viewdefinition::rebuild To Rebuild an active configuration inventoryfacade::viewdefinition::syncview To Sync an active configuration inventoryfacade::viewdefinition::preview To Preview metrics of a configuration in the commerce view.&nbsp; inventoryfacade::outagerule::fulfilmentOutage To Ceate/Update fulfillment outage webtop::inventory::fulfillmentoutage::read To View fulfillment outage webtop::inventory::atc::read To View/Rename/Delete other view actions Note: There is no resource available just to view the ATC UI &nbsp; Note: Currently there is no view-only permission for the ATC configuration UIs.

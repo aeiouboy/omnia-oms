@@ -1,0 +1,9 @@
+# Forecast Reservation Configuration
+
+**Permalink:** forecast-reservation-configuration
+**Content Length:** 3,044 characters
+**Scraped:** 2025-08-09T22:34:41.671668
+
+---
+
+Home &rsaquo;&rsaquo;Manhattan Active® Omni&rsaquo;&rsaquo;Order Management&rsaquo;&rsaquo;UI Help&rsaquo;&rsaquo;Enterprise Inventory ››Forecast Reservation Configuration Forecast Reservation Configuration Forecast Reservation Configuration The Forecase Reservation Configuration enables the retailers to configure the default demand type, strategy name, and shipping methods for the forecast reservation. It also allows the retailers to&nbsp;prioritize call off orders over other orders.&nbsp;Refer&nbsp;here&nbsp;for more details.&nbsp; To&nbsp;configure forecast reservation, perform the following steps: Navigate to&nbsp;Menu&nbsp;&gt;&nbsp;Application Configuration&nbsp;&gt;&nbsp;Manage Enterprise Fulfillment Configuration&nbsp;&gt;&nbsp;Forecast Reservation Configuration. Click&nbsp;Create&nbsp;to add a&nbsp;new config.&nbsp; On the Forecast Reservation Configuration page, enter the Demand Config Id. Select the&nbsp;Default Demand Type from the following options: Allocation : To allocate orders from physical on&nbsp;hand&nbsp;supply. Allocation and Future:&nbsp;To allocate orders first from on hand supply across locations, followed by future supply. Select the Default Strategy Name and Default Shipping Method for the forecast reservation. The 'Is CallOff Priority Over Order' checkbox enables retailers to prioritize call off orders over other orders. If this checkbox is selected, the call off order takes the highest priority,&nbsp;followed by forecast reservations, and then normal orders. If this checkbox is not selected,&nbsp;normal orders are prioritized over call-off orders, which in turn are prioritized over forecast reservations. &nbsp; &nbsp;
